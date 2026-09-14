@@ -8,4 +8,4 @@ Program3.py - Made Sept 9, Variable to store my name
 
 Program4.py - Made Sept 9, Programmed Green LED to blink on microcontroller
 
-Program5.py - Made Sept. 14, Used ChatGPT to program an alarm system with a green LED and red LED
+Program5.py - Made Sept. 14, Used ChatGPT to program an alarm system with a green LED and red LED. Collaborated with teammates.
