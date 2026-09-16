@@ -12,4 +12,4 @@ Program5.py - Made Sept 14, Used ChatGPT to program an alarm system with a green
 
 Program6.py - Made Spet 16, Used ChatPGT to program a Servo moter to rotate 180 degrees when contact switch is pressed. Collaborated with teammates.
 
-Program7.py - Made Sept 16 - Used ChatGPT to program a code that reads ADC outputs and converts them into voltage for different conditions on a water sensor.
+Program7.py - Made Sept 16 - Used ChatGPT to program a code that reads ADC outputs and converts them into voltage for different conditions on a water sensor. Worked with teammates
