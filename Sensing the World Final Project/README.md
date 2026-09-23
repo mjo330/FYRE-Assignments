@@ -1,4 +1,4 @@
-#Final project overview: We are creating a model to simulate an automatic umbrella that warns someone when it is raining and keeps them dry.
+# Final project overview: We are creating a model to simulate an automatic umbrella that warns someone when it is raining and keeps them dry.
 
 Worked with Samuel Underwood and Brandon Nguyen for this project.
 
