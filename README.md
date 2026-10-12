@@ -7,5 +7,8 @@ September 14th Microcontrollers and Circuits
 
 September 16th Microcontrollers and Circuits Part 2
 
+# Reflections
+Three self-written reflections for each part of the module.
+
 # Final Project
 September 21st-October 7th Final Project Design, Demonstration, and Presentation
